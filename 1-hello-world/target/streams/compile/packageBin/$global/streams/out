@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\fdontu\work\scala-tutorial\1-hello-world\target\scala-2.13\1-hello-world_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Example1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\fdontu\work\scala-tutorial\1-hello-world\target\scala-2.13\classes\example\Example1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\fdontu\work\scala-tutorial\1-hello-world\target\scala-2.13\classes\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Example1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\fdontu\work\scala-tutorial\1-hello-world\target\scala-2.13\classes\example\Example1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Example2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\fdontu\work\scala-tutorial\1-hello-world\target\scala-2.13\classes\example\Example2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Example2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\fdontu\work\scala-tutorial\1-hello-world\target\scala-2.13\classes\example\Example2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Example1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\fdontu\work\scala-tutorial\1-hello-world\target\scala-2.13\classes\example\Example1$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

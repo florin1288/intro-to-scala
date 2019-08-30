@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9599c733-cd9e-42e4-a223-8df3cc0ab58b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1-hello-world" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="998012303">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="1" />
+          <entry key="md" value="1" />
+          <entry key="sbt" value="1" />
+          <entry key="sc" value="4" />
+          <entry key="scala" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Scala" value="45" />
+          <entry key="sbt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sbt" value="2" />
+          <entry key="sbtShell" value="12" />
+          <entry key="sc" value="125" />
+          <entry key="scala" value="17850" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="17975" />
+          <entry key="sbt" value="2" />
+          <entry key="sbtShell" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/module_3/polymorphism_3/LinkedList.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/module_3/abstractclasses_1/Abstract.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/module_3/traits_2/Trait.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/module_4/functionsasobjects_2/Function.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/module_4/everythingisanobject_1/Primitive.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/module_2/classes_3/Rational.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/module_2/operators_4/Operators.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/module_1/evaluationstrategy_3/EvaluationStrategy.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="70" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/module_2/curriedfunctions_2/CurriedFunction.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/module_2/higherorderfunctions_1/HigherOrderFunction.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/example/Example.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/expression/Expression.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/evaluationstrategy/non.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/sample.Sample.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/sample/session.sc" />
+        <option value="$PROJECT_DIR$/src/test/scala/test1.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/evaluationstrategy/EvaluationStrategy.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/evaluationstrategy_3/EvaluationStrategy.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_2/classes_3/Rational.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_1/evaluationstrategy_3/EvaluationStrategy.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_2/operators_4/Operators.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_2/curriedfunctions_2/CurriedFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_1/example_1/Example.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_1/expression_2/Expression.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_4/functionsasobjects_1/Function.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_4/everythingisanobject_1/Primitive.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_4/patternmatching_4/PatternMatching.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_4/decomposition_3/ClassHierarchy.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_2/higherorderfunctions_1/HigherOrderFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_3/abstractclasses_1/Abstract.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_3/traits_2/Trait.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/module_3/polymorphism_3/LinkedList.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-267" />
+    <option name="y" value="-1175" />
+    <option name="width" value="1846" />
+    <option name="height" value="1216" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_1" type="462c0819:PsiDirectoryNode" />
+              <item name="evaluationstrategy_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_1" type="462c0819:PsiDirectoryNode" />
+              <item name="example_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_1" type="462c0819:PsiDirectoryNode" />
+              <item name="expression_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_2" type="462c0819:PsiDirectoryNode" />
+              <item name="classes_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_2" type="462c0819:PsiDirectoryNode" />
+              <item name="curriedfunctions_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_2" type="462c0819:PsiDirectoryNode" />
+              <item name="higherorderfunctions_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_2" type="462c0819:PsiDirectoryNode" />
+              <item name="operators_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_3" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractclasses_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_3" type="462c0819:PsiDirectoryNode" />
+              <item name="polymorphism_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_3" type="462c0819:PsiDirectoryNode" />
+              <item name="traits_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_4" type="462c0819:PsiDirectoryNode" />
+              <item name="decomposition_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_4" type="462c0819:PsiDirectoryNode" />
+              <item name="everythingisanobject_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_4" type="462c0819:PsiDirectoryNode" />
+              <item name="functionsasobjects_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="module_4" type="462c0819:PsiDirectoryNode" />
+              <item name="patternmatching_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567180854645" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.e">
+    <configuration name="e" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="module_3.polymorphism_3.e" />
+      <module name="1-hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module_3.polymorphism_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="evaluation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="module_1.expression_2.evaluation" />
+      <module name="1-hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module_1.expression_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nth" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="module_3.polymorphism_3.nth" />
+      <module name="1-hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module_3.polymorphism_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rationals2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="module_2.classes_3.rationals2" />
+      <module name="1-hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module_2.classes_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="types" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="module_3.traits_2.types" />
+      <module name="1-hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module_3.traits_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.rationals2" />
+      <item itemvalue="Application.types" />
+      <item itemvalue="Application.evaluation" />
+      <item itemvalue="Application.nth" />
+      <item itemvalue="Application.e" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.e" />
+        <item itemvalue="Application.types" />
+        <item itemvalue="Application.nth" />
+        <item itemvalue="Application.evaluation" />
+        <item itemvalue="Application.rationals2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="1-hello-world" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root-1-hello-world [file:/C:/Users/fdontu/work/scala-tutorial/1-hello-world/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="root-1-hello-world-build [file:/C:/Users/fdontu/work/scala-tutorial/1-hello-world/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3304563779" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/practice/fpinscala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="inProcessMode" value="false" />
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9599c733-cd9e-42e4-a223-8df3cc0ab58b" name="Default Changelist" comment="" />
+      <created>1564145374114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564145374114</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-219" y="-1208" width="1846" height="1216" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18029115" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Project Explorer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295562" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295562" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3295562" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.3295562" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49944875" weight="0.3295562" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005513" side_tool="true" weight="0.3295562" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295562" />
+      <window_info anchor="bottom" id="Console" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="DB Execution Console" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24972437" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="4" weight="0.3296582" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3296582" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WorksheetDefaultProjectSettings">
+    <option name="compilerProfileName" value="Default" />
+    <option name="moduleName" value="1-hello-world" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/module_1/evaluationstrategy_3/EvaluationStrategy.scala</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/module_1/evaluationstrategy_3/EvaluationStrategy.scala</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/module_1/evaluationstrategy_3/EvaluationStrategy.scala</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/module_1/evaluationstrategy_3/EvaluationStrategy.scala</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/module_3/traits_2/Trait.scala</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/evaluationstrategy/non.sc" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sample.Sample.sc" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/test1.sc" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sample/session.sc" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_2/nan.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_3/nan.scala" />
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="70" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/util/NoSuchElementException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.13.0-sources.jar!/scala/App.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_4/nan.java" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_4/everythingisanobject_1/primitives.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_4/decomposition_3/ClassHierarchy.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="124" column="34" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_4/patternmatching_4/PatternMatching.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="892">
+          <caret line="63" column="40" lean-forward="true" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_1/example_1/Example.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_1/expression_2/Expression.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_3/polymorphism_3/LinkedList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_3/abstractclasses_1/Abstract.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_3/traits_2/Trait.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_4/functionsasobjects_2/Function.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_2/classes_3/Rational.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_2/operators_4/Operators.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_1/evaluationstrategy_3/EvaluationStrategy.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="70" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_2/curriedfunctions_2/CurriedFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_2/higherorderfunctions_1/HigherOrderFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/module_4/everythingisanobject_1/Primitive.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
