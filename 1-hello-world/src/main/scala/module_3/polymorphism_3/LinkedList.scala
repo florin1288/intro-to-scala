@@ -12,7 +12,7 @@ trait IList
 class INil extends IList
 class ICons(val head: Int, val tail: IList) extends IList
 
-//TODO Why is 'val' used in the parameter list?
+//TODO What is the 'val' parameter list translated into?
 class IntCons1(_head: Int, _tail: IList) extends IList {
   val head = _head
   val tail = _tail
@@ -63,11 +63,11 @@ object nth extends App {
   //TODO What happens for: nth(-1, list), nth(5, list)?
 }
 
-//TODO Make the 'nth' function throw IndexOutOfBoundException if index is out of range
+//TODO Make the 'nth' function throw IndexOutOfBoundsException if index is out of range
 object nth1 extends App {
 
   def nth[T](n: Int, xs: List[T]): T =
-    //TODO Add here the condition to throw IndexOutOfBoundException
+    //TODO if () throw new IndexOutOfBoundsException
     if (n == 0) xs.head
     else nth(n - 1, xs.tail)
 

@@ -33,8 +33,9 @@ object functionsasobjects extends App {
 
 object functioncalls extends App {
 
-  //TODO What's the Object Oriented translation of this function call?
   val f = (x: Int) => x * x
+
+  //TODO What would be the Object Oriented translation of this function call?
   f(7)
 
   //TODO val f1 = ...

@@ -1,7 +1,7 @@
 package module_2.classes_3
 
 /**
-  * This definition introduces 2 entities:
+  * This definition of the class introduces 2 entities:
   * 1. A new type
   * 2. A constructor to create elements of this type
   */
@@ -49,7 +49,7 @@ class Rational2(x: Int, y: Int) {
     numerator * that.denominator < that.numerator * denominator
 
   //Write a function that returns the maximum of 2 rational numbers - by using the "less" method
-  //TODO def max(that: Rational) =
+  //TODO def max(that: Rational) = if () ... else ...
 
   override def toString = numerator + "/" + denominator
 

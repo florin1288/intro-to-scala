@@ -37,8 +37,8 @@ object higherOrderFunction extends App {
   def sum(f: Int => Int, a: Int, b: Int): Int =
     if (a > b) 0 else f(a) + sum(f, a + 1, b)
 
-  //TODO def sumCubes(a: Int, b: Int): Int =
-  //TODO def sumFactorials(a: Int, b: Int): Int =
-  //TODO def sumInts(a: Int, b: Int): Int =
+  //TODO def sumCubes(a: Int, b: Int): Int = ...
+  //TODO def sumFactorials(a: Int, b: Int): Int = ...
+  //TODO def sumInts(a: Int, b: Int): Int = ...
 
 }

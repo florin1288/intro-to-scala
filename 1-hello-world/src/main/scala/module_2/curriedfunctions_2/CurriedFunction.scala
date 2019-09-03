@@ -38,6 +38,7 @@ object curriedFunction extends App {
   //TODO def sumCubes =
   //TODO def sumFactorials =
 
+  //TODO Is there a shorter way of writing it?
 }
 
 object curriedFunction2 extends App {
@@ -46,13 +47,10 @@ object curriedFunction2 extends App {
   def cube(i: Int): Int = i * i * i
 
 
-  //TODO A shorter way of writing it
   def sum(f: Int => Int)(a: Int, b: Int): Int =
     if (a > b) 0 else f(a) + sum(f)(a + 1, b)
 
-  //TODO Remember the initial definition?
-  def sumI(f: Int => Int, a: Int, b: Int): Int =
-    if (a > b) 0 else f(a) + sumI(f, a + 1, b)
+  //Remember our initial definition -> def sum(f: Int => Int, a: Int, b: Int): Int
 
   //TODO What we gained?
   val myGenerator = SumOfCubesGenerator(sum(cube))
@@ -67,20 +65,24 @@ case class SumOfCubesGenerator(f: (Int, Int) => Int) {
 
 object curriedFunction3 extends App {
 
+  def id(i: Int): Int = i
+
+
   def sum(f: Int => Int)(a: Int, b: Int): Int =
     if (a > b) 0 else f(a) + sum(f)(a + 1, b)
 
   // Compute the product of the values of a function for the points on a given interval
-  //TODO def product(f: Int => Int)(a: Int, b: Int): Int =
+  //TODO def product(f: Int => Int)(a: Int, b: Int): Int = ...
 
   // Write factorial in terms of the product function
-  //TODO def fact(n): Int =
+  //TODO def fact(n): Int = ...
+
 
   // Write a more general function, that generalizes both sum and product functions
   def mapReduce(f: Int => Int, combine: (Int, Int) => Int, unit: Int)(a: Int, b: Int): Int =
     if (a > b) unit else combine(f(a), mapReduce(f, combine, unit)(a + 1, b))
 
-  //TODO def product(f: Int => Int)(a: Int, b: Int): Int =
-  //TODO def sum(f: Int => Int)(a: Int, b: Int): Int =
+  //TODO def product(f: Int => Int)(a: Int, b: Int): Int = ...
+  //TODO def sum(f: Int => Int)(a: Int, b: Int): Int = ...
 
 }

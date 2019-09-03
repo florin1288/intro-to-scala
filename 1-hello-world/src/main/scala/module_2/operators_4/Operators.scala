@@ -1,5 +1,8 @@
 package module_2.operators_4
 
+/**
+  * Can we define operators for the rational numbers so that they can be used like Int or Double?
+  */
 class Rational(x: Int, y: Int) {
 
   def numerator = x

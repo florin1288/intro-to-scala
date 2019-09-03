@@ -43,9 +43,14 @@ object valueDefinition extends App {
   */
 object condition extends App {
 
-  //TODO  def and(x: , y: ): Boolean = if()  else
+  def loop: Boolean = loop
 
-  //TODO  def or(x: , y: ): Boolean = if()  else
+  //TODO  def and(x: , y: ): Boolean = if() ... else ...
+  //TODO  def or(x: , y: ): Boolean = if() ... else ...
+
+//  println(and(true, true))
+//  println(and(false, true))
+//  println(and(false, loop))
 
 }
 

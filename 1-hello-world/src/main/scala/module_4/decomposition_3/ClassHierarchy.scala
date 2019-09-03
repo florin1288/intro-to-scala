@@ -107,7 +107,7 @@ object classhierarchy1 extends App {
 trait Expr2 {
   def eval: Int
 
-  //TODO Display the expression
+  //TODO Add new method to display the expression
   def show: String
 }
 
