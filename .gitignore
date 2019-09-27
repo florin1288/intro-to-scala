@@ -1,6 +1,7 @@
-/target/
-/.idea/
-.xml
+*/target/*
+*/.idea/*
+
+*.xml
 
 # Compiled source #
 ###################
